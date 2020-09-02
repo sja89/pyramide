@@ -1,1 +1,1 @@
-https://sja89/pyramide.github.io/index.html
+https://pyramide.github.io/index.html
